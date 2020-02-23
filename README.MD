@@ -1,10 +1,8 @@
+# Setup
+    
     pipenv shell
-
-    pipenv install jupyterlab
-
-
-    pipenv install <name> --skip-lock
-
-# Start Notebook
-
+    pipenv install
     jupyter lab
+
+# Repo
+https://github.com/LukasMachetanz/data-mining-nba.git
