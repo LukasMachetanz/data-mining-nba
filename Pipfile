@@ -15,6 +15,7 @@ pandas-profiling = "*"
 pydot = "*"
 ipython = "*"
 seaborn = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.7"
